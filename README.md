@@ -1,0 +1,2 @@
+JavaScriptで作成したUIです。
+git cloneしてhtmlファイルをブラウザのタブに配置すれば動作します。
